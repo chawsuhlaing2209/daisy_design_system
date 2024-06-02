@@ -1,0 +1,63 @@
+{
+  "measure": {
+    "dimension": {
+      "dimension": {
+        "fontsize": {
+          "14": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 14
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          },
+          "16": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 16
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          }
+        }
+      }
+    },
+    "opacity": {},
+    "size": {},
+    "space": {},
+    "font-size": {
+      "font-size": {
+        "fontsize_xs": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 16
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        }
+      }
+    },
+    "line-height": {},
+    "letter-spacing": {},
+    "paragraph-spacing": {},
+    "border-width": {},
+    "border-radius": {},
+    "duration": {},
+    "z-index": {}
+  }
+}

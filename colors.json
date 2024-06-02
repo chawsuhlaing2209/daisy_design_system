@@ -1,0 +1,94 @@
+{
+  "color": {
+    "palette": {
+      "purple": {
+        "100": {
+          "value": "#f2efffff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#c3b5fdff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#a893fcff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#7d5efaff",
+          "type": "color"
+        }
+      },
+      "yellow": {
+        "100": {
+          "value": "#fef9e8ff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#fce494ff",
+          "type": "color"
+        },
+        "100a": {
+          "value": "#fef9e80d",
+          "type": "color"
+        },
+        "200a": {
+          "value": "#fce4941a",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "0": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "50": {
+          "value": "#f5f6f7ff",
+          "type": "color"
+        },
+        "100": {
+          "value": "#ecedefff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#e0e2e5ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#c3c7cdff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#8c939fff",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#2a384dff",
+          "type": "color"
+        }
+      }
+    },
+    "pink": {
+      "100": {
+        "value": "#ffedf6ff",
+        "type": "color"
+      }
+    },
+    "color": {
+      "bg": {
+        "primary": {
+          "enabled": {
+            "value": "{color.palette.purple.800.value}",
+            "type": "color"
+          }
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{color.palette.neutral.50.value}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
